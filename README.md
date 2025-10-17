@@ -1,6 +1,6 @@
 # Project_SIPRec-TW: SIP-Aware Social Sentiment Recommendation System for Foodpanda Taiwan
 
-專案簡介，本專案結合 __自然語言處理（NLP）__ 技術與 __社會資訊處理理論（Social Information Processing Theory, SIP）__，透過深度學習（LSTM 模型）分析 Foodpanda 台灣平台上的用戶評論，提取語意與情緒特徵，建立能感知使用者情緒與社交語境的美食推薦系統。
+專案簡介，本專案結合 __自然語言處理（NLP）__ 技術與 __深度學習（LSTM 模型）__ 分析 Foodpanda 台灣平台上的用戶評論，提取語意與情緒特徵，建立能感知使用者情緒與社交語境的美食推薦系統。
 
 ### 🔍 __SIP-Aware 台灣美食推薦系統__ 核心特色
 
