@@ -1,4 +1,4 @@
-# Project_FoodpandaTW_LSTM_SocialSentimentModel
+# Project_SIPRec-TW: SIP-Aware Social Sentiment Recommendation System for Foodpanda Taiwan
 
 ## 📌 專案簡介
 
